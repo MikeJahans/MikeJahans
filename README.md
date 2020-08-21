@@ -1,4 +1,4 @@
-### Assalamu alaykum 🇸🇦
+### Assalamu alaykum 🙏🏼🇸🇦
 
 Here's what I've been working on:
 - A few Unity projects for both mobile and desktop
